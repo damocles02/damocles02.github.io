@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-12T01:33:39.550Z</updated>
+  <updated>2020-03-12T02:46:20.875Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>&#39;2019/02/16&#39;</title>
+    <link href="http://yoursite.com/2020/03/12/2019-02-16/"/>
+    <id>http://yoursite.com/2020/03/12/2019-02-16/</id>
+    <published>2020-03-12T02:37:42.000Z</published>
+    <updated>2020-03-12T02:46:20.875Z</updated>
+    
+    <content type="html"><![CDATA[<p>车为道路点上光芒，如同荧光的墨迹画穿了京城。紫荆城的轮廓消失在灯火下，只剩四方的围墙在橙光中展现身形。<br>郊区的烟火在视野中变成了一个闪光，几次闪烁之后便在黑夜的巨噬中失去了他的坐标。<br>举目望去，橙色满城，每一个光点都代表一个北京里的人儿，也不够吧，多少人，多少代的见证下，这繁华景象才得展现于面前。光线之下，有五味人生，正如橙光之中夹杂的其他。<br>看到环了，这一圈一圈之间，分出多少故事。<br>暗的地方，发生着什么？<br>车，好多车，白色的，蠕动的光点，在一条条曲折的光路上，像血液一样，流动着、传送着，再到暗处，熄灭了。</p>]]></content>
+    
+    <summary type="html">
+    
+      回京第一日
+    
+    </summary>
+    
+    
+    
+      <category term="diary" scheme="http://yoursite.com/tags/diary/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
