@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-04T02:53:58.781Z</updated>
+  <updated>2020-04-25T13:08:06.304Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>0425-短视频产品圆桌讨论笔记</title>
+    <link href="http://yoursite.com/2020/04/25/0425-%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BA%A7%E5%93%81%E5%9C%86%E6%A1%8C%E8%AE%A8%E8%AE%BA%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yoursite.com/2020/04/25/0425-%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BA%A7%E5%93%81%E5%9C%86%E6%A1%8C%E8%AE%A8%E8%AE%BA%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-04-25T13:02:07.000Z</published>
+    <updated>2020-04-25T13:08:06.304Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一些概念"><a href="#一些概念" class="headerlink" title="一些概念"></a>一些概念</h2><h4 id="信息茧房"><a href="#信息茧房" class="headerlink" title="信息茧房"></a>信息茧房</h4><p>涉及到个性化推荐算法的设计，自从2012年今日头条的出现开始，这种内容分发方式很快盛行。<br>几乎所有短视频软件（甚至社交软件等）都出现“发现页”的设置</p><h4 id="kol策略"><a href="#kol策略" class="headerlink" title="kol策略"></a>kol策略</h4><p>网红、明星带货</p><h2 id="短视频与长视频"><a href="#短视频与长视频" class="headerlink" title="短视频与长视频"></a>短视频与长视频</h2><p>长视频创作者通过优质长视频的创造，可以为自己的短视频账号引流（而短视频平台是带货的优秀平台）</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;一些概念&quot;&gt;&lt;a href=&quot;#一些概念&quot; class=&quot;headerlink&quot; title=&quot;一些概念&quot;&gt;&lt;/a&gt;一些概念&lt;/h2&gt;&lt;h4 id=&quot;信息茧房&quot;&gt;&lt;a href=&quot;#信息茧房&quot; class=&quot;headerlink&quot; title=&quot;信息茧房&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>TVB台词摘</title>
